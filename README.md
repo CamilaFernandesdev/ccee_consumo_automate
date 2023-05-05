@@ -20,3 +20,15 @@ Os dados são referentes ao consumo energético brasileiro fornecido pela CCEE.
 
     Atualiza a planinha disponível no sharepoint, onde a mesma é linkada com um 
     dashboard no Power BI.
+
+Biblioteca em python para facilitar automatização de download de dados do Tableau.
+
+## Como instalar
+
+### Modo editável local/desenvolvimento
+
+**No diretório onde foi clonado**, executar:
+```
+pip install -e .
+```
+Assim, o caminho local ficará no PATH do python.
